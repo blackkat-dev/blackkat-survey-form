@@ -1,4 +1,4 @@
-# 📝 Blackkat Survey Form
+# 📝 Blackkat | Survey Form
 
 ## 📖 Overview
 This survey form was created as part of my Responsive Web Design certification through FreeCodeCamp. The objective of this project was to build a fully responsive survey form using only HTML and CSS. The form is designed to collect user feedback regarding website development and services, with a focus on modern design, clean structure, accessibility, and responsive layout that works seamlessly accross devices.
