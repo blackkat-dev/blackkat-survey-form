@@ -1,5 +1,5 @@
-/*! Copyright © 2026 Tiffany Schuman, doing business as Vynxcode All Rights Reserved. 
-Licensed under the Vynxcode Proprietary License. 
+/*! Copyright © 2026 Tiffany Schuman. 
+Licensed under the Blackkat Proprietary License. 
 See LICENSE for details */ 
 
 * {
@@ -16,7 +16,7 @@ html, body {
 body {
   display: flex;
   flex-direction: column;
-  background-image: url('https://vynxcode-ts.github.io/vynxcodes-survey-form/img/coding-background.png');
+  background-image: url('https://blackkat-dev.github.io/blackkat-survey-form/img/coding-background.png');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
