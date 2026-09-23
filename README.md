@@ -61,7 +61,7 @@ This project fully meets all FreeCodeCamp Responsive Web Design
 Survey Form user stories and requirements.
 
 ## 📸 Preview
-![Survey Form Project Screenshot](./img/website-preview.jpeg)
+![Survey Form Project Screenshot](./img/website-preview.png)
 
 [`View Live Project`](https://blackkat-dev.github.io/blackkat-survey-form/)
 
